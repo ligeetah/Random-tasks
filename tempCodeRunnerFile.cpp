@@ -1,9 +1,2 @@
-#include<iostream>
-using namespace std;
-main()
-{
-    string find;
-    string sol;
-    int count=0;
-    cout<<"Enter the string ";
-    
+1], 3);
+    print(arr[0], 3);
